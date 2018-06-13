@@ -108,12 +108,12 @@ code syntax highlight
     1. ordered list
 ```
 
-- [x] complete task
 - [ ] incomplete task
+- [x] complete task
 
 ```
-- [x] complete task
 - [ ] incomplete task
+- [x] complete task
 ```
 
 dt
@@ -127,16 +127,16 @@ dt
 
 ## Table
 
-| head | head | head |
-|------|:----:|-----:|
-| body | body | body |
-| body | body | body |
+| head  | head center | head right |
+|-------|:-----------:|-----------:|
+| left  | center      | right      |
+| align | align       | align      |
 
 ```
-| head | head | head |
-|------|:----:|-----:|
-| body | body | body |
-| body | body | body |
+| head  | head center | head right |
+|-------|:-----------:|-----------:|
+| left  | center      | right      |
+| align | align       | align      |
 ```
 
 
