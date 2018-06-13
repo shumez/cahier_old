@@ -1,8 +1,8 @@
 <link href="css/main.css" rel="stylesheet"></link>
 
-# Demo
+# demo
 
-## Header
+## header
 
 # h1
 
@@ -42,7 +42,7 @@
 
 
 
-## Text
+## text
 
 paragraph ^sup^ ~sub~
 
@@ -82,7 +82,7 @@ code syntax highlight
 
 
 
-## List
+## list
 
 - bullet
     - bullet
@@ -125,7 +125,7 @@ dt
 ```
 
 
-## Table
+## table
 
 | head  | head center | head right |
 |-------|:-----------:|-----------:|
@@ -141,7 +141,7 @@ dt
 
 
 
-## Blockquote
+## blockquote
 
 > blockquote
 >> blockquote
@@ -152,7 +152,7 @@ dt
 ```
 
 
-## Horizontal rule
+## horizontal rule
 
 ---
 ***
@@ -165,7 +165,7 @@ ___
 ```
 
 
-## Image
+## image
 
 ![alt](img/ "title")
 
@@ -173,7 +173,7 @@ ___
 ![alt](img/ "title")
 ```
 
-## Emoji
+## emoji
 
 :sparkles: :camel: :boom:
 
