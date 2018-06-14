@@ -127,16 +127,17 @@ dt
 
 ## table
 
-| head  | head center | head right |
-|-------|:-----------:|-----------:|
-| left  | center      | right      |
-| align | align       | align      |
+| left align  | center align | right align |
+|-------------|:------------:|------------:|
+| left        | center       | right       |
+| align       | align        | align       |
+
 
 ```
-| head  | head center | head right |
-|-------|:-----------:|-----------:|
-| left  | center      | right      |
-| align | align       | align      |
+| left align  | center align | right align |
+|-------------|:------------:|------------:|
+| left        | center       | right       |
+| align       | align        | align       |
 ```
 
 
@@ -167,10 +168,10 @@ ___
 
 ## image
 
-![alt](img/ "title")
+![alt](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png/ "title")
 
 ```
-![alt](img/ "title")
+![alt](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png/ "title")
 ```
 
 ## emoji
