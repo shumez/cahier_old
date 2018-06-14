@@ -5,39 +5,27 @@
 ## header
 
 # h1
+## h2
+### h3
+#### h4
+##### h5
+###### h6
+h1
+==
+h2
+--
 
 ```
 # h1
-```
-
 ## h2
-
-```
-## h2
-```
-
 ### h3
-
-```
-### h3
-```
-
 #### h4
-
-```
-#### h4
-```
-
 ##### h5
-
-```
-##### h5
-```
-
 ###### h6
-
-```
-###### h6
+h1
+==
+h2
+--
 ```
 
 
@@ -45,38 +33,31 @@
 ## text
 
 paragraph ^sup^ ~sub~
+**bold** __bold__
+*italic* _italic_
+~~strikethrough~~
+[link](../)
+`code`
 
 ```
 paragraph ^sup^ ~sub~
-```
-
 **bold** __bold__
-```
-**bold** __bold__
-```
-
 *italic* _italic_
-```
-*italic* _italic_
-```
-
 ~~strikethrough~~
-```
-~~strikethrough~~
-```
-
 [link](../)
-```
-[link](../)
-```
-
-`code`
-```
 `code`
 ```
 
-```js
-code syntax highlight
+```html
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
+</body>
+</html>
 ```
 
 
@@ -91,6 +72,16 @@ code syntax highlight
 + bullet
     + bullet
 
+1. ordered list
+    1. ordered list
+
+- [ ] incomplete task
+- [x] complete task
+
+dt
+: dd
+
+
 ```
 - bullet
     - bullet
@@ -98,28 +89,13 @@ code syntax highlight
     * bullet
 + bullet
     + bullet
-```
 
 1. ordered list
     1. ordered list
 
-```
-1. ordered list
-    1. ordered list
-```
-
 - [ ] incomplete task
 - [x] complete task
 
-```
-- [ ] incomplete task
-- [x] complete task
-```
-
-dt
-: dd
-
-```
 dt
 : dd
 ```
@@ -168,10 +144,10 @@ ___
 
 ## image
 
-![alt](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png/ "title")
+![alt](https://image.flaticon.com/icons/svg/25/25231.svg "title")
 
 ```
-![alt](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png/ "title")
+![alt](https://image.flaticon.com/icons/svg/25/25231.svg "title")
 ```
 
 ## emoji
