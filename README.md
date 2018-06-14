@@ -1,14 +1,14 @@
 <!--
 @Author: shumez
 @Date:   2018-05-23 13:54:05
-@Project: proj
+@Project: cahier
 @Filename: README.md
 @Last modified by:   shumez
 @Last modified time: 2018-05-24 13:36:84
 -->
 
 
-# proj
+# Cahier
 
 
 [docs] / [DOCS.md]
@@ -56,7 +56,7 @@
 
 
 <!-- ------------------------------- -->
-[shumez]: shumez
+[shumez]: @shumez
 [DOCS.md]: docs/DOCS.md
 [docs]: docs/
 [CHANGELOG.md]: CHANGELOG.md
