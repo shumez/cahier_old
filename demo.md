@@ -33,18 +33,28 @@ h2
 ## text
 
 paragraph ^sup^ ~sub~
+
 **bold** __bold__
+
 *italic* _italic_
+
 ~~strikethrough~~
+
 [link](../)
+
 `code`
 
 ```
 paragraph ^sup^ ~sub~
+
 **bold** __bold__
+
 *italic* _italic_
+
 ~~strikethrough~~
+
 [link](../)
+
 `code`
 ```
 
